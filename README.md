@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things)
 
 <!--
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Stringxy)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stringxy)
