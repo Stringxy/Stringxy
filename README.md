@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things)
 
 <!--
 **Stringxy/Stringxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Stringxy)
